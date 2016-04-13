@@ -1,14 +1,26 @@
-layout_spectrum: 0.9421642
-typography_spectrum: 0.2742537
 color:
   saturation: 0.4808769
-  lightness: 0.2033582
   brandStrength: 0.9406508
+  rhythmicContrast: 0.3903854
   brandColors:
     - '#ADCEEA'
     - '#909CAC'
     - '#15160E'
     - '#394B5C'
     - '#CFBD5C'
-  rhythmicContrast: 0.3903854
+  lightness: 0.2033582
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9421642
+typography_spectrum: 0.2742537
 name: Rain Master
