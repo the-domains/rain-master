@@ -1,26 +1,26 @@
-color:
-  saturation: 0.4808769
-  brandStrength: 0.9406508
-  rhythmicContrast: 0.3903854
-  brandColors:
-    - '#ADCEEA'
-    - '#909CAC'
-    - '#15160E'
-    - '#394B5C'
-    - '#CFBD5C'
-  lightness: 0.2033582
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9421642
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.2742537
+color:
+  saturation: 0.7416045
+  brandStrength: 0.9406508
+  lightness: 0.5438433
+  brandColors:
+    - '#ADCEEA'
+    - '#909CAC'
+    - '#15160E'
+    - '#394B5C'
+    - '#CFBD5C'
+  rhythmicContrast: 0.04477612
+layout_spectrum: 0.9421642
 name: 'http://draintherain.com'
